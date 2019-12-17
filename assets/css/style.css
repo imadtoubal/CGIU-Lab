@@ -859,3 +859,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .people-group {
     margin-top: 20px;
 }
+
+.experience-time.text-right img {
+    width: 150px;
+}
